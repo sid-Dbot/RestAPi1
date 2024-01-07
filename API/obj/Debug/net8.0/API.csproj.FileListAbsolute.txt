@@ -120,3 +120,4 @@ C:\Users\siddhartha.shakya\Desktop\Projects\.net core\datingApp\API\obj\Debug\ne
 C:\Users\siddhartha.shakya\Desktop\Projects\.net core\datingApp\API\obj\Debug\net8.0\API.pdb
 C:\Users\siddhartha.shakya\Desktop\Projects\.net core\datingApp\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\siddhartha.shakya\Desktop\Projects\.net core\datingApp\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\siddhartha.shakya\Desktop\Projects\.net core\datingApp\api\obj\Debug\net8.0\API.sourcelink.json
