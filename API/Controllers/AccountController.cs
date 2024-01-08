@@ -26,6 +26,10 @@ namespace API.Controllers
             using var hmac = new HMACSHA512();
 
             var user = new AppUser { UserName = username, PasswordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(password)), PasswordSalt = hmac.Key };
+
+            _context.Add(user);
+
+            return user;
         }
 
 
