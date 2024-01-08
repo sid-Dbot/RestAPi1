@@ -27,7 +27,8 @@ namespace API.Controllers
 
             var user = new AppUser { UserName = username, PasswordHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(password)), PasswordSalt = hmac.Key };
 
-            _context.Add(user);
+            _context.Users.Add(user);
+            await _context.SaveChangesAsync();
 
             return user;
         }
