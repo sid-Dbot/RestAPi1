@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
-    public class Register : BaseApiConroller
+    public class AccountController : BaseApiConroller
     {
 
 
