@@ -53,6 +53,7 @@ namespace API.Controllers
                 if (computerHash[i] != user.PasswordHash[i]) return Unauthorized("invalid password");
 
             }
+            return user;
         }
 
         public async Task<bool> CheckUsername(string username)
