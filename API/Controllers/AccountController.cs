@@ -48,7 +48,7 @@ namespace API.Controllers
             using var hmac = new HMACSHA512(user.PasswordSalt);
 
             var computerHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(loginDto.Password));
-            for (int i = 0; i <= computerHash.Length; i++)
+            for (int i = 0; i < computerHash.Length; i++)
             {
                 if (computerHash[i] != user.PasswordHash[i]) return Unauthorized("invalid password");
 
