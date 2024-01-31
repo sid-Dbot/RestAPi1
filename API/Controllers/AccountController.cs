@@ -38,6 +38,12 @@ namespace API.Controllers
             return user;
         }
 
+        [HttpPost("login")] //api/login
+        public async Task<ActionResult<AppUser>> Login(LoginDto loginDto)
+        {
+            var
+        }
+
         public async Task<bool> CheckUsername(string username)
         {
             return await _context.Users.AnyAsync(x => x.UserName == username);
