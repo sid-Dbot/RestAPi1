@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\api\\API.csproj": {}
+    "C:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\api\\API.csproj": {
+    "C:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\api\\API.csproj",
+        "projectPath": "C:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\api\\obj\\",
+        "outputPath": "C:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siddhartha.shakya\\AppData\\Roaming\\NuGet\\NuGet.Config"
