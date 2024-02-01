@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Rdc4XWvQcIAwACFqZRFmCsveMc37qB/g8lAjmtj2hs1vjkZy8ydpGWwgCUVbCuogXrP71huRTmOOKVrxN7ovCw==",
+  "dgSpecHash": "tdZTb6Y1kgDjgCtZ3YrnX8NOBqrGA+NQeMZwd3gujx6x5VkWRl9eh0UdSuHe441IRz8/VmZVIqmIWExmdMOeZg==",
   "success": true,
   "projectFilePath": "C:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,10 @@
     "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.3.0\\microsoft.identitymodel.abstractions.7.3.0.nupkg.sha512",
+    "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.3.0\\microsoft.identitymodel.jsonwebtokens.7.3.0.nupkg.sha512",
+    "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\microsoft.identitymodel.logging\\7.3.0\\microsoft.identitymodel.logging.7.3.0.nupkg.sha512",
+    "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.3.0\\microsoft.identitymodel.tokens.7.3.0.nupkg.sha512",
     "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
@@ -42,6 +46,7 @@
     "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\system.composition.hosting\\6.0.0\\system.composition.hosting.6.0.0.nupkg.sha512",
     "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\system.composition.runtime\\6.0.0\\system.composition.runtime.6.0.0.nupkg.sha512",
     "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\system.composition.typedparts\\6.0.0\\system.composition.typedparts.6.0.0.nupkg.sha512",
+    "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.3.0\\system.identitymodel.tokens.jwt.7.3.0.nupkg.sha512",
     "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\system.reflection.metadata\\6.0.1\\system.reflection.metadata.6.0.1.nupkg.sha512",
