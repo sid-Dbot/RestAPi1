@@ -2725,11 +2725,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\siddhartha.shakya\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\siddhartha.shakya\\Desktop\\Projects\\.net core\\datingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\siddhartha.shakya\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2790,7 +2790,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
